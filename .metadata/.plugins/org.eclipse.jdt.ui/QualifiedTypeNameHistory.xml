@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="visitor.NodeVisitor"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="visitor.Visitor"/>
+<fullyQualifiedTypeName name="visitor.MaxDepthVisitor"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="jdk.nashorn.internal.ir.FunctionCall"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.schemagen.xmlschema.List"/>
+<fullyQualifiedTypeName name="ast.BooleanType"/>
+<fullyQualifiedTypeName name="ast.IntegerType"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.xalan.internal.xsltc.compiler.util.ErrorMessages_sk"/>
+<fullyQualifiedTypeName name="ast.FormalList"/>
+<fullyQualifiedTypeName name="ast.FunctionDeclaration"/>
+<fullyQualifiedTypeName name="ast.FunctionCall"/>
+<fullyQualifiedTypeName name="ast.ExpressionList"/>
+<fullyQualifiedTypeName name="util.ImpTable"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,68 @@
+### BEG # TEST 1 ###
+Table for File: sample/bigcond.exp after phase 1
+Table {
+   this = unknown
+}
+Table for file: sample/bigcond.exp after phase 2
+Table {
+   this = int
+}
+Table for File: sample/cond.exp after phase 1
+Table {
+   r = unknown
+   l = unknown
+}
+Table for file: sample/cond.exp after phase 2
+Table {
+   r = int
+   l = int
+}
+Table for File: sample/fib.exp after phase 1
+Table {
+   zero = unknown
+   four = unknown
+   one = unknown
+   two = unknown
+   three = unknown
+   five = unknown
+}
+Table for file: sample/fib.exp after phase 2
+Table {
+   zero = int
+   four = int
+   one = int
+   two = int
+   three = int
+   five = int
+}
+Table for File: sample/less.exp after phase 1
+Table {
+   r = unknown
+   less = unknown
+   l = unknown
+}
+Table for file: sample/less.exp after phase 2
+Table {
+   r = int
+   less = boolean
+   l = int
+}
+Table for File: sample/not.exp after phase 1
+Table {
+   more = unknown
+   less = unknown
+}
+Table for file: sample/not.exp after phase 2
+Table {
+   more = boolean
+   less = boolean
+}
+Table for File: sample/year.exp after phase 1
+Table {
+   y = unknown
+}
+Table for file: sample/year.exp after phase 2
+Table {
+   y = int
+}
+### END # TEST 1 ###
