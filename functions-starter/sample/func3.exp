@@ -1,0 +1,4 @@
+int y() { return 1; }
+x = y();
+int z() { return x+1; }
+print z()

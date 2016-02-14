@@ -1,8 +1,6 @@
-// This is a comment
-zero = 0;
-one = 1;
-two = one + zero;
-three = two + one;
-four = three + two;
-five = four + three;
-print five
+x = 2 < 3;
+int foo() {
+    return x? 5 : 10;
+}
+
+print foo();

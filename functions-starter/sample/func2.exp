@@ -1,0 +1,7 @@
+y = 5;
+x = 2 < y;
+int foo() {
+  return x? 5 : 10;
+}
+
+print foo();
